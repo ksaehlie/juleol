@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    no.juleol: DEBUG
+template: Hello, %s!
+defaultName: Stranger

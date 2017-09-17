@@ -1,0 +1,9 @@
+no\juleol\Cors.class
+no\juleol\core\Juleol.class
+no\juleol\api\JuleolRegisterResource.class
+no\juleol\core\Register.class
+no\juleol\api\JuleolResource.class
+no\juleol\JuleolApiConfiguration.class
+no\juleol\JuleolApiApplication.class
+no\juleol\JuleolApiHelsesjekk.class
+no\juleol\core\Bryggeri.class
